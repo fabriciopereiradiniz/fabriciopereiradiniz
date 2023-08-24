@@ -2,8 +2,6 @@
 
 - 🔭 CS student and web developer
 - 🌱 I’m currently learning java/javascript
-<!-- replace x.x.x with actual version -->
-<codersrank-summary username="fabriciopereiradiniz"></codersrank-summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciopereiradiniz)](https://github.com/anuraghazra/github-readme-stats)
 <div> 
