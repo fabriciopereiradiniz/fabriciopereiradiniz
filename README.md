@@ -2,7 +2,7 @@
 
 - 🔭 CS student and web developer
 - 🌱 I’m currently Java, Python & object recognition in general
-- 
+  
 ### more about me
 - I am the founder of the [academic center for the Computer Science course at the State University of Paraná](https://www.instagram.com/caccompunespar/).
 - I am coding BrazillianBirds (BB).
