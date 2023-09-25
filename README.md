@@ -4,7 +4,7 @@
 - 🌱 I’m currently Java, Python & object recognition in general
   
 ### more about me
-- I am the founder of the [academic center for the Computer Science course at the State University of Paraná](https://www.instagram.com/caccompunespar/).
+- I am the founder of the [Computer Science Student Association at the State University of Paraná](https://www.instagram.com/caccompunespar/).
 - I am coding BrazillianBirds (BB).
 - In a few weeks i'm gonna have a youtube channel :)
   
