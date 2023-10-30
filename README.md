@@ -3,7 +3,7 @@ Hello World! I'm Fabrício (He/Him)
     
 Welcome to my portfolio</h1>
 - Working on it -> [Brazillian Birds](https://github.com/fabriciopereiradiniz/brazillianbirds)
-- GitHub Campus Expert trainee 🚩 LeetCode Certified Noob
+- GitHub Campus Expert Trainee 🚩 Ada Tech Ambassador 💻 LeetCode Certified Noob 👨‍💻
 - 📫 How to reach me:
 <a href="https://linkedin.com/in/fabriciopereiradiniz"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ---
