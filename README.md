@@ -10,9 +10,10 @@ Welcome to my portfolio</h1>
   
 ### 👤 More about me:
 - I am the founder of the [Computer Science Student Association at the State University of Paraná](https://www.instagram.com/caccompunespar/).
-- In a few weeks i'm gonna have a youtube channel :)
+- In a few weeks i'm gonna have a youtube channel :) (Still working on it xd)
 - When I'm not coding I like the play indie games and go to the gym
-  
+- Currently I live in Apucarana (PR)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciopereiradiniz)](https://github.com/anuraghazra/github-readme-stats)
 <div> 
   <a href="https://www.linkedin.com/in/fabriciopereiradiniz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
