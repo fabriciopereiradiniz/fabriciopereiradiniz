@@ -2,6 +2,7 @@
 Hello World! I'm Fabrício (He/Him)
     
 Welcome to my portfolio</h1>
+- Conducting research on the student data at my university
 - Currently working on health data ◌
 - GitHub Campus Expert 🚩 LeetCode Certified Noob 👨‍💻
 - 📫 How to reach me:
