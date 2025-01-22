@@ -12,7 +12,3 @@ Welcome to my portfolio</h1>
 - I am the founder of the [Computer Science Student Association at the State University of Paraná](https://www.instagram.com/caccompunespar/).
 
 ![](https://leetcard.jacoblin.cool/fabriciopereiradiniz?ext=heatmap)
-
-<div> 
-  <a href="https://www.linkedin.com/in/fabriciopereiradiniz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
